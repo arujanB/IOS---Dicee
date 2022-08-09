@@ -4,3 +4,4 @@
 https://user-images.githubusercontent.com/78590873/183381413-353538e4-8c0a-4856-aa07-cb0061621400.mov
 
 # IOS---Dicee
+![Снимок экрана 2022-08-09 в 16 08 47](https://user-images.githubusercontent.com/78590873/183623183-441cd188-f9ab-41a7-8cd6-1b82a4e88df4.png)
